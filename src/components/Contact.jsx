@@ -1,5 +1,3 @@
-
-
 const Contact = () => {
   return (
     <div id="contact" className="form-1">
@@ -8,7 +6,7 @@ const Contact = () => {
           <div className="col-lg-12">
             <h2 className="h2-heading">Contact details</h2>
             <p className="p-heading">
-              Don't hesitate to send your questions through the contact form or{' '}
+              Don't hesitate to send your questions through the contact form or{" "}
               <a className="blue no-line" href="mailto:contact@gemdev.com">
                 contact@gemdev.com
               </a>
@@ -19,7 +17,11 @@ const Contact = () => {
         <div className="row">
           <div className="col-lg-12">
             <div className="form-container">
-              <img className="decoration" src="src/assets/contact-envelope.svg" alt="alternative" />
+              <img
+                className="decoration"
+                src="src/assets/contact-envelope.svg"
+                alt="alternative"
+              />
               <form>
                 <div className="form-group">
                   <input
