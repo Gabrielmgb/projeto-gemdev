@@ -10,25 +10,29 @@ const Details2 = () => {
             <div className="text-container">
               <h2>Simple to setup</h2>
               <p>
-                Gemdev is a well structured package and very easy to setup via parameters.
-                You can get it up and running with basic coding skills.
-                Don't hesitate to give it a try today
+                Gemdev is a well structured package and very easy to setup via
+                parameters. You can get it up and running with basic coding
+                skills. Don't hesitate to give it a try today
               </p>
               <ul className="list-unstyled li-space-lg">
                 <li className="media">
                   <i className="fas fa-square"></i>
                   <div className="media-body">
-                    <strong>For designers</strong> which have less data and operations
+                    <strong>For designers</strong> which have less data and
+                    operations
                   </div>
                 </li>
                 <li className="media">
                   <i className="fas fa-square"></i>
                   <div className="media-body">
-                    <strong>For developers</strong> with a lot of data and daily inputs
+                    <strong>For developers</strong> with a lot of data and daily
+                    inputs
                   </div>
                 </li>
               </ul>
-              <a className="btn-solid-reg" href="#your-link">Details</a>
+              <a className="btn-solid-reg" href="#your-link">
+                Details
+              </a>
             </div>
           </div>
 
