@@ -1,4 +1,3 @@
-
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg fixed-top navbar-dark">
@@ -19,7 +18,10 @@ const Navbar = () => {
           <span className="navbar-toggler-icon"></span>
         </button>
 
-        <div className="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
+        <div
+          className="navbar-collapse offcanvas-collapse"
+          id="navbarsExampleDefault"
+        >
           <ul className="navbar-nav ml-auto">
             <li className="nav-item">
               <a className="nav-link page-scroll" href="#details">
