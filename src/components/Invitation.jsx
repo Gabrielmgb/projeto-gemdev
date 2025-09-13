@@ -1,4 +1,3 @@
-
 const Invitation = () => {
   return (
     <div className="basic-6">
