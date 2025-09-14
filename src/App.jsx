@@ -15,6 +15,7 @@ import Details2 from "./components/Details2";
 function App() {
   return (
     <div data-spy="scroll" data-target=".fixed-top">
+      
       {/* <div className="container mt-5">
       <h1 className="text-center text-primary">Olá, Bootstrap com Vite + React!</h1>
       <button className="btn btn-success">Clique aqui</button>
@@ -29,7 +30,8 @@ function App() {
       <Statistics />
       <Invitation />
       <Contact />
-      <Footer />
+      <Footer /> 
+
     </div>
   );
 }
